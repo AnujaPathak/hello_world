@@ -1,4 +1,4 @@
 hello_world
 ===========
 
-First repo
+First repository
